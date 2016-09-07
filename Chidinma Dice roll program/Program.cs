@@ -40,5 +40,4 @@ namespace Chidinma_Dice_roll_program
             }
         }
     }
-    }
-}
+    
