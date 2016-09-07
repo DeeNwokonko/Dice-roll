@@ -1,0 +1,2 @@
+c:\users\ndukwe ikedieze\documents\visual studio 2015\Projects\Chidinma Dice roll program\Chidinma Dice roll program\bin\Debug\Chidinma Dice roll program.exe.config
+c:\users\ndukwe ikedieze\documents\visual studio 2015\Projects\Chidinma Dice roll program\Chidinma Dice roll program\obj\Debug\Chidinma Dice roll program.csprojResolveAssemblyReference.cache
