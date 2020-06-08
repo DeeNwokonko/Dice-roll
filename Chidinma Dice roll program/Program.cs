@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Chidinma_Dice_roll_program
+namespace Rob_Dice_roll_program
 {
     class Program
     {
